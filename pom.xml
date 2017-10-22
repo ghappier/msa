@@ -5,7 +5,7 @@
 
 	<groupId>com.lizq.msa</groupId>
 	<artifactId>msa</artifactId>
-	<version>0.0.1</version>
+	<version>1.0.0</version>
 	<packaging>pom</packaging>
 
 	<name>msa</name>
